@@ -3,6 +3,8 @@
 # Analysis of Classical Greek and Roman Works
 *A Text Analytics Study by Alexandra Ferentinos*
 
+*The Code cannot be added here as this was a University Project and the files are simply too large to be submitted here* 
+
 ## Project Overview
 This study applies exploratory text analytics methods to analyze patterns across nine classical Greco-Roman works, examining how different literary genres employ distinct narrative strategies and emotional patterns.
 
