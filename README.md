@@ -39,12 +39,15 @@ This study applies exploratory text analytics methods to analyze patterns across
    - Warfare/strategy
 
 ## Project Structure
+
+```bash
 final_project/
 ├── Project_Deliverables/
 │   ├── Source_Files/
 │   ├── Data_Files/
 │   ├── PCA_Outputs/
 │   └── Final_Project.ipynb
+```
 
 ## Technical Implementation
 - Text preprocessing including tokenization and stop word removal
