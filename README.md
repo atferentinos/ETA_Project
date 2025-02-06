@@ -60,4 +60,4 @@ The analysis demonstrates that classical works implement distinct narrative stor
 ## Future Work
 The study suggests that further research with a larger corpus could reveal additional nuances in the patterns exhibited in classical works.
 
-*Note: This project was completed as part of course DS5001.*
+*Note: This project was completed as part of course DS5001 For the Data Science Master's Program of UVA.*
